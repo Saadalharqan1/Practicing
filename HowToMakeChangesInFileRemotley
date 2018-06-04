@@ -1,5 +1,11 @@
 this file explain the steps how to make changes remotly in a particular file 
 
+
+IMPORTANT NOTE: 
+evey time you want to make some change remotly in a repository you should clone it first by copy the link of that repo to make sure you have the latest updating version of that reppsitory (this is when you woek with team in one repository)
+
+Alos, you to have to make sure you are working in the same directory 
+
 First, make the changes in the file that you want to change and save it
 
 Second, go a head and commit that changes in git bash with this command --> git commit -a -m "Add the stepes of how edit the content in the file"
