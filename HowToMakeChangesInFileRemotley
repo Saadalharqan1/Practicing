@@ -1,1 +1,7 @@
-this file explain the steps how to make changed remotly in a particular file 
+this file explain the steps how to make changes remotly in a particular file 
+
+First, make the changes in the file that you want to change and save it
+
+Second, go a head and commit that changes in git bash with this command --> git commit -a -m "Add the stepes of how edit the content in the file"
+
+Third, go ahead an push that in git bash with this command --> git push origin master 
